@@ -1,0 +1,12 @@
+<profile="Local Webroot">
+<pubType=1>
+<files="">
+<optimize=.T.>
+<pubALB=.F.>
+<pubSecurity=.F.>
+<default_page="">
+<open_in_browser=.F.>
+<pubSupport=.T.>
+<pubSelected=.T.>
+<flagCreateAex=.F.>
+<remoteTest=.T.>

@@ -1,0 +1,36 @@
+<PubHist<[1]<type="calendaricons">
+<name="calendaricons">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('05/28/2015 12:44:09 08 pm')>
+>
+<[2]<type="javascript">
+<name="javascript">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('05/28/2015 12:44:09 93 pm')>
+>
+<[3]<type="WebComponent">
+<name="{c:\alphademo\helloworld.webprojects\default.webproject\helloworld.a5wcmp}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('05/28/2015 12:44:10 39 pm')>
+>
+<[4]<type="css">
+<name="a5system">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('05/28/2015 12:44:10 84 pm')>
+>
+<[5]<type="css">
+<name="grblue">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('05/28/2015 12:44:11 37 pm')>
+>
+<[6]<type="file">
+<name="{c:\alphademo\helloworld.webprojects\default.webproject\project.securitysettings}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('05/28/2015 12:44:11 41 pm')>
+>
+<[7]<type="A5WPage">
+<name="{c:\alphademo\helloworld.webprojects\default.webproject\index.a5w}">
+<target_folder="c:\a5webroot">
+<timestamp=CTODT('05/28/2015 01:03:24 69 pm')>
+>
+>
